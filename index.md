@@ -1,4 +1,4 @@
-## Welcome to my personal site
+## Infory
 
 Its gonna be updated more more will be coming to it as soon as i know the coding 
 
