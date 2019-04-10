@@ -2,7 +2,7 @@
 
 ## Welcome on my site here are some links of mine
 
-Twitch:
+<center>Twitch:</center>
 <a href="https://www.twitch.tv/infory_" class="btn btn-github"><span class="icon"></span>View my Twitch</a>
 
 Youtube:
