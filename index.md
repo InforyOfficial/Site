@@ -1,6 +1,6 @@
 ## Infory
 
-<center><i>`Welcome on my site here are some links of mine`</i></center>
+<center><i>Welcome on my site here are some links of mine</i></center>
 
 <center>Twitch:</center>
 <center><a href="https://www.twitch.tv/infory_" class="btn btn-github"><span class="icon"></span>View my Twitch</a></center>
