@@ -1,6 +1,6 @@
 ## Infory
 
-## Welcome on my site here are some links of mine
+# Welcome on my site here are some links of mine
 
 <center>Twitch:</center>
 <a href="https://www.twitch.tv/infory_" class="btn btn-github"><span class="icon"></span>View my Twitch</a>
